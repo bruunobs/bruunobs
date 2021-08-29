@@ -2,16 +2,11 @@
   Hi there 👋
 </h1>
 
-📖 About Me
-
+## About Me
 Hi, I'm Bruno Barros, a Mobile developer from Brazil. I'm currently focused on trying to improve my skills on Kotlin.
 
-**Languages and Tools:** 
+## Languages, Frameworks and Tools
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-📫 How to reach me
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brun.barros1@gmail.com)](mailto:brun.barros2@gmail.com)
